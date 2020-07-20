@@ -1,0 +1,11 @@
+_member_of_domain_usage 域使用的成员
+_has_part 有一部分
+_also_see 另请参阅
+_hypernym 上位词
+_synset_domain_topic_of 的synset域主题
+_derivationally_related_form 衍生关系形式
+_similar_to 类似于
+_instance_hypernym 实例别名
+_verb_group 动词组
+_member_meronym 成员meronym
+_member_of_domain_region 域的成员

@@ -1,0 +1,14 @@
+DATA_DIR = "../data/FB13"
+
+BERT_MODEL_PATH = "/bert-base-uncased"
+BERT_TOKENIZER_PATH = "bert-base-uncased"
+BERT_MODEL_OUTPUT = "../out_bert"
+BERT_TOKENIZER_OUTPUT = "../out_bert/vocab.txt"
+
+
+TRAIN_EPOCHS = 3
+TRAIN_BATCH_SIZE = 32
+VALID_BATCH_SIZE = 8
+EVAL_BATCH_SIZE = 8
+MAX_SEQUENCE_LEN = 128
+LEARNING_RATE = 5e-5
